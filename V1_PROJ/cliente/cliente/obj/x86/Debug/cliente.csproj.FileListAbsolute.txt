@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\cliente.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\cliente.csprojResolveAssemblyReference.cache
