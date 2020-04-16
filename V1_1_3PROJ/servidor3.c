@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <mysql.h>
-#include <pthread.h>
+
 void *AtenderCliente (void *socket)
 {
 	int sock_conn;
@@ -105,14 +105,14 @@ int main(int argc, char *argv[])
 	//Creamos una conexion al servidor MYSQL 
 	conn = mysql_init(NULL);
 	if (conn==NULL) {
-		printf ("Error al crear la conexiï¿ï\u0178³n: %u %s\n", 
+		printf ("Error al crear la conexiÃ¯Â¿Ã¯\u0178Â³n: %u %s\n", 
 				mysql_errno(conn), mysql_error(conn));
 		exit (1);
 	}
 	//inicializar la conexion
 	conn = mysql_real_connect (conn, "localhost","root", "mysql", "game",0, NULL, 0);
 	if (conn==NULL) {
-		printf ("Error al inicializar la conexiï¿ï\u0178³n: %u %s\n", 
+		printf ("Error al inicializar la conexiÃ¯Â¿Ã¯\u0178Â³n: %u %s\n", 
 				mysql_errno(conn), mysql_error(conn));
 		exit (1);
 	}
@@ -488,7 +488,7 @@ int main(int argc, char *argv[])
 					
 				}
 			}	
-			else if(codigo==5) //Te hace el recovey de tu contraseña introduciendole un nombre de usuairo
+			else if(codigo==5) //Te hace el recovey de tu contraseÃ±a introduciendole un nombre de usuairo
 			{
 				p = strtok( NULL, "/");
 				
