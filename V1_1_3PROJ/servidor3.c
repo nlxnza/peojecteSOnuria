@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <mysql.h>
-
+#include <pthread.h>
 void *AtenderCliente (void *socket)
 {
 	int sock_conn;
