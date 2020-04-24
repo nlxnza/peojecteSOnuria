@@ -1,0 +1,45 @@
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\cliente.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_PROJ\cliente\cliente\obj\x86\Debug\cliente.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1PROJ\cliente\cliente\obj\x86\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1PROJ\cliente\cliente\obj\x86\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1_2PROJ\cliente\cliente\obj\x86\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1_2PROJ\cliente\cliente\obj\x86\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1_2PROJ\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1_2PROJ\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1_2PROJ\cliente\cliente\obj\x86\Debug\cliente.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1_2PROJ\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1_2PROJ\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\V1_1_2PROJ\cliente\cliente\obj\x86\Debug\cliente.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\bin\Debug\cliente.exe
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\bin\Debug\cliente.pdb
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\obj\x86\Debug\cliente.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\obj\x86\Debug\cliente.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\obj\x86\Debug\cliente.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\obj\x86\Debug\cliente.exe
+\\Mac\Home\Downloads\V1_1_3PROJ\cliente\cliente\obj\x86\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\version 2 pro\cliente\cliente\obj\x86\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\version 2 pro\cliente\cliente\obj\x86\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\version 2 pro\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\version 2 pro\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\version 2 pro\cliente\cliente\obj\x86\Debug\cliente.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\version 2 pro\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\version 2 pro\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\3A+ER\SO\carpeta_join\version 2 pro\cliente\cliente\obj\x86\Debug\cliente.csproj.GenerateResource.Cache
+C:\Users\Josep\Desktop\peojecteSOnuria-master (1)\peojecteSOnuria-master\version_4_pro\cliente\cliente\obj\x86\Debug\cliente.exe
+C:\Users\Josep\Desktop\peojecteSOnuria-master (1)\peojecteSOnuria-master\version_4_pro\cliente\cliente\obj\x86\Debug\cliente.pdb
+C:\Users\Josep\Desktop\peojecteSOnuria-master (1)\peojecteSOnuria-master\version_4_pro\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\Josep\Desktop\peojecteSOnuria-master (1)\peojecteSOnuria-master\version_4_pro\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\Josep\Desktop\peojecteSOnuria-master (1)\peojecteSOnuria-master\version_4_pro\cliente\cliente\obj\x86\Debug\cliente.csprojResolveAssemblyReference.cache
+C:\Users\Josep\Desktop\peojecteSOnuria-master (1)\peojecteSOnuria-master\version_4_pro\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Josep\Desktop\peojecteSOnuria-master (1)\peojecteSOnuria-master\version_4_pro\cliente\cliente\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Josep\Desktop\peojecteSOnuria-master (1)\peojecteSOnuria-master\version_4_pro\cliente\cliente\obj\x86\Debug\cliente.csproj.GenerateResource.Cache
+C:\Users\Josep\Desktop\vers3\vers3\cliente\cliente\obj\x86\Debug\cliente.exe
+C:\Users\Josep\Desktop\vers3\vers3\cliente\cliente\obj\x86\Debug\cliente.pdb
